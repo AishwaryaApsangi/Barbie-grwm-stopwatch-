@@ -9,6 +9,7 @@ body {
 }
 
 .stopwatch {
+    border-radius: 25px;
     width: 90%;
     max-width: 600px;
     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.4)), url(background.jpg);
@@ -55,3 +56,4 @@ body {
     width: 60px;
 
 }
+
