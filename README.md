@@ -1,3 +1,4 @@
 # Barbie-themed-stopwatch-
 
-<img width="550" alt="image" src="https://github.com/AishwaryaApsangi/Barbie-themed-timer-/assets/155040036/bae4e3d6-7a5f-4247-8d89-12355118f77c">
+<img width="511" alt="image" src="https://github.com/AishwaryaApsangi/Barbie-grwm-stopwatch-/assets/155040036/3a80678b-296a-4676-8777-539bccd46acc">
+
